@@ -3,5 +3,5 @@ estoy viendo intro
 voy a ver si puedo subir la guia 0 introductoria con git
 alla voy
 
-Texto Agregado por Andres
+borrado
 
